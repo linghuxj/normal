@@ -1,0 +1,10 @@
+.idea
+*/node_modules
+*/.idea
+*/pnpm-lock.yaml
+*/.python-version
+/docker_env/mysql/data/
+/docker_env/mysql/logs/
+/docker_env/mongo/data/
+/docker_env/mongo/log/
+/docker_env/task/

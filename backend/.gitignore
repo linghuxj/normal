@@ -1,0 +1,19 @@
+!alembic/versions/.gitkeep
+/temp/*
+!temp/.gitkeep
+/logs/*
+!logs/.gitkeep
+
+.idea
+.python-version
+
+# virtualenv
+venv/
+ENV/
+
+# Rope project settings
+.ropeproject
+*.db
+.DS_Store
+__pycache__
+!migrations/__init__.py
